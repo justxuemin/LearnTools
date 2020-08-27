@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LearnTools</string>
+    <string name="flipclock">Flip Clock</string>
+    <string name="days">DAYS</string>
+    <string name="hours">HOURS</string>
+    <string name="minutes">MINUTES</string>
+    <string name="seconds">SECONDS</string>
+</resources>
